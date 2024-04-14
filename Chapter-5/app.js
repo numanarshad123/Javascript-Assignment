@@ -85,4 +85,3 @@ console.log("25.c Centigrate convert to Farhanite"+(((farhnit * 9)/5)+32)+" f");
    console.log("Area Of Circle "+ (Pie * radius * radius));
 
 
-
